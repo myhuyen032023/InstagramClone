@@ -31,5 +31,3 @@ I am excited about enhancing the app with the following features:
 ## 🤝 Contributing
 I welcome contributions and feedback! If you have suggestions or want to collaborate, feel free to fork the repository and submit a pull request.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
